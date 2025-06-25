@@ -1,0 +1,22 @@
+{
+  "name": "playwright-api-testing",
+  "version": "1.0.0",
+  "description": "This repo stores my practices of api testing with playwright from the section 7 of the Udemy course.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarrh94/playwright-api-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarrh94/playwright-api-testing/issues"
+  },
+  "homepage": "https://github.com/cesarrh94/playwright-api-testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.4"
+  }
+}
